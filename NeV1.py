@@ -1,5 +1,5 @@
 
-YOUR_Email_For_TAkeAdmin_Exploit = 'lolicode33@gmail.com'  # Edit your email
+YOUR_Email_For_TAkeAdmin_Exploit = 'tabahsan@hotmail.com'  # Edit your email
 r = '\033[31m'
 g = '\033[32m'
 y = '\033[33m'
